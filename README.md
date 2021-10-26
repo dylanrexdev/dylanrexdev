@@ -1,4 +1,4 @@
-<img src="img/dr-v2-2-0.25x.png"/ alt="Dylan Rex">
+<img src="img/dr-v2-2-0.25x.png" alt="Dylan Rex">
 
 # Dylan Rex
 
