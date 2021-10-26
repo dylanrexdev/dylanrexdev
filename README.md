@@ -5,3 +5,12 @@
 [buy me a coffee](https://www.buymeacoffee.com/dylanrex)
 
 My name is Dylan, and I am currently falling down the rabbit hole of information management. 
+
+Profiles:
+
+[GitHub](https://github.com/dylanrexdev) | [Stack Overflow](https://stackoverflow.com/users/16693252/dylanrexdev)
+
+Certifications:
+
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/dylanrex/javascript-algorithms-and-data-structures)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/dylanrex/responsive-web-design)
