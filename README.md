@@ -1,4 +1,6 @@
-# Welcome to my GitHub!
+<img src="img/dr-v2.png" width=159/>
+
+## Dylan Rex
 
 <!--
 **dylanrexdev/dylanrexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dylan, and I am currently falling down the rabbit hole of information management.
+My name is Dylan, and I am currently falling down the rabbit hole of information management. 
+
+*Data Manager for [Brandster Inc](https://www.brandster.com/)*
