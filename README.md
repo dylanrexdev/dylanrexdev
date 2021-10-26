@@ -1,6 +1,6 @@
-<h1>Dylan Rex <img src="img/dr-v2-2-0.25x.png"/ alt="Dylan Rex"></h1>
+<img src="img/dr-v2-2-0.25x.png"/ alt="Dylan Rex">
 
-## Dylan Rex
+# Dylan Rex
 
 Data Manager for [Brandster Inc](https://www.brandster.com/)
 
