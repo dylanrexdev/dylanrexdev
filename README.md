@@ -1,4 +1,4 @@
-<p align="center"><img src="img/dr-v2-2-0.25x.png" alt="Dylan Rex"></p>
+<p align="center"><img src="img/dylanrexdevlogo-v2.jpg" alt="Dylan Rex"></p>
 
 # Dylan Rex
 
